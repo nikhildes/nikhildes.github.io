@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Nikhil.
 
-### More Information
+I live in sunny and idyllic Claremont, California, a.k.a. the city of trees and PhDs. Coincidentally, I earned a PhD, and I hope to one day become a tree.
 
-A place to include any other types of information that you'd like to include about yourself.
+### This blog
+
+ I like to grow things and eat things. This blog is where I document my projects. I create and own all the content on this site, and I don't want to share any photos or data with a 3rd party. I am using Github pages to host, and a minimalist theme called [Jekyll-Now](https://github.com/barryclark/jekyll-now.git) by Barry Clark. It was the first theme I found that doesn't require additional plugins or building the site locally.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thenikhil*at*gmail*dot*com](mailto:thenikhil+blog*at*gmail)
