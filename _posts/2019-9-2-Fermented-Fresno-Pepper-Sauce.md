@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fermented Fresno Pepper Sauce
+tags: ["fermentation", "chili", "cooking"]
 ---
 
 I'm very pleased with the bright red color of this fermented pepper sauce.
@@ -15,6 +16,6 @@ They were fermented for two days in a 2.5% salt brine, then immersion blended wi
 
 The fermentation was rapid and developed a strong lactic tang, which accentuates the sweet notes of the chili.
 
-About 1 cup of pale pink brine remained. I plan to use it to kickstart the next batch of chili sauce, and also as a salty, acidic seasoning during cooking. 
+About 1 cup of pale pink brine remained. I plan to use it to kickstart the next batch of chili sauce, and also as a salty, acidic seasoning during cooking.
 
 ![fresno pepper sauce]({{ site.baseurl }}/images/fresnopeppersauce.jpg)
