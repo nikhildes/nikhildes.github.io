@@ -14,4 +14,4 @@ I live in sunny and idyllic Claremont, California, a.k.a. the city of trees and 
 
 ### Contact me
 
-[thenikhil*at*gmail*dot*com](mailto:thenikhil+blog*at*gmail)
+[thenikhil_at_gmail_dot_com](mailto:thenikhilatgmaildotcom)
